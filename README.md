@@ -1,2 +1,2 @@
-# myninjasite3
-This is my ninja site 3
+# WebDriverIO Test
+Docs: https://webdriver.io/
